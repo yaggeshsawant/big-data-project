@@ -1,0 +1,3 @@
+# Sensitive credentials & environment files (CRITICAL)
+.env
+service_account.json
